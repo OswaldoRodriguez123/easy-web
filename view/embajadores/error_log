@@ -1,0 +1,2347 @@
+[10-Feb-2016 09:36:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:36:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:36:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 09:53:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 11:40:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 11:40:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 11:40:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 12:16:16 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 12:16:16 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 12:16:16 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 16:46:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 16:46:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 16:46:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[10-Feb-2016 16:46:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 17:03:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 17:03:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[10-Feb-2016 17:03:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[10-Feb-2016 17:03:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:17:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:17:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:17:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[13-Feb-2016 16:17:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:46:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:46:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 16:46:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[13-Feb-2016 16:46:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 17:08:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 17:08:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 17:08:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[13-Feb-2016 17:08:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 19:50:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 19:50:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 19:50:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[13-Feb-2016 19:50:53 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 20:15:13 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 20:15:13 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 20:15:13 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[13-Feb-2016 20:15:13 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Feb-2016 23:17:54 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Feb-2016 23:17:54 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Feb-2016 23:17:54 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[14-Feb-2016 23:17:54 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:00:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:00:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:00:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[15-Feb-2016 17:00:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:47:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:47:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 17:47:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[15-Feb-2016 17:47:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension ' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dllextension : cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 12:15:45 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 12:15:45 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 12:15:45 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[16-Feb-2016 12:15:45 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:47:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:47:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:47:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[16-Feb-2016 13:47:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:49:58 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:49:58 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 13:49:58 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[16-Feb-2016 13:49:58 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 14:59:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 14:59:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 14:59:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[16-Feb-2016 14:59:25 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 19:58:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 19:58:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[16-Feb-2016 19:58:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[16-Feb-2016 19:58:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 22:46:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 22:46:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 22:46:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[17-Feb-2016 22:46:33 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 23:08:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 23:08:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[17-Feb-2016 23:08:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[17-Feb-2016 23:08:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 08:10:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 08:10:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 08:10:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[18-Feb-2016 08:10:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 09:15:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 09:15:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 09:15:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[18-Feb-2016 09:15:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 19:02:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 19:02:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Feb-2016 19:02:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[18-Feb-2016 19:02:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 07:52:23 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 07:52:23 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 07:52:23 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[19-Feb-2016 07:52:23 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 08:25:42 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 08:25:42 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 08:25:42 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[19-Feb-2016 08:25:42 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 14:06:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 14:06:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Feb-2016 14:06:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[19-Feb-2016 14:06:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Feb-2016 18:58:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Feb-2016 18:58:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Feb-2016 18:58:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[20-Feb-2016 18:58:18 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Feb-2016 10:03:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Feb-2016 10:03:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[21-Feb-2016 10:03:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[21-Feb-2016 10:03:03 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:25:55 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:25:55 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:25:55 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 06:25:55 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:32:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:32:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:32:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 06:32:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:39:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:39:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:39:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 06:39:41 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:55:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:55:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 06:55:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 06:55:32 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:04:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:04:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:04:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 07:04:09 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:15:17 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:15:17 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:15:17 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 07:15:17 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:18:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:18:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 07:18:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 07:18:43 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:38:24 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:38:24 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:38:24 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 10:38:24 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:44:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:44:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 10:44:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 10:44:20 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 21:27:59 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 21:27:59 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[22-Feb-2016 21:27:59 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[22-Feb-2016 21:27:59 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Feb-2016 20:15:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Feb-2016 20:15:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Feb-2016 20:15:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[23-Feb-2016 20:15:46 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 07:08:10 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 07:08:10 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 07:08:10 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 07:08:10 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:40:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:40:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:40:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 14:40:39 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:56:04 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:56:04 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:56:04 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 14:56:04 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:58:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:58:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 14:58:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 14:58:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:44:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:44:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:44:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:44:22 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:05 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:05 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:05 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:49:05 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:49:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:49:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:52:21 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:52:21 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:52:21 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:52:21 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:56:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:56:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:56:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:56:38 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:57:28 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:57:28 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:57:28 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:57:28 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:58:08 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:58:08 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 15:58:08 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 15:58:08 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:00:57 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:00:57 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:00:57 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 16:00:57 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:58:31 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:58:31 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 16:58:31 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 16:58:31 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:02:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:02:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:02:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 17:02:44 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:32:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:32:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:32:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 17:32:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:36:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:36:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 17:36:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 17:36:36 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 18:07:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 18:07:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Feb-2016 18:07:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dllextension = pdo_pgsql.so
+;
+; For example, on Windows:
+;
+;
+; ... or under UNIX:
+;
+;
+; Note that it should be the name of the module only; no directory information 
+; needs to go here.  Specify the location of the extension with the
+; extension_dir directive above.
+
+
+;Windows Extensions
+;Note that MySQL and ODBC support is now built in, so no dll is needed for it.
+;
+
+
+;;;;;;;;;;;;;;;;;;;
+; Module Settings ;
+;;;;;;;;;;;;;;;;;;;
+
+[Syslog]
+; Whether or not to define the various syslog variables (e.g. $LOG_PID,
+; $LOG_CRON, etc.).  Turning it off is a good idea performance-wise.  In
+; runtime, you can define these variables by calling define_syslog_variables().
+;define_syslog_variables  = Off
+
+[mail function]
+; For Win32 only.
+;SMTP = localhost
+smtp_port = 25
+
+; For Win32 only.
+;sendmail_from = me@localhost.com
+
+; For Unix only.  You may supply arguments as well (default: sendmail -t -i).
+sendmail_path = /usr/sbin/sendmail -t -i
+
+[Java]
+;java.class.path in Unknown on line 0
+[24-Feb-2016 18:07:19 America/Caracas] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll' - /usr/local/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_sqlite.dll: cannot open shared object file: No such file or directory in Unknown on line 0
