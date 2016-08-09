@@ -47,185 +47,198 @@
 </section>  
 <section class="padding-top-bottom-50">
    <div class="container">
-    <div class="row"> 
-        <div class="col-md-12 col-lg-7 vcenter padding-bottom-20">
-	<div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Robert</h4>
-                    <p>CEO</p>                    
+    <!--<div class="row"> 
+        <div class="col-md-12 col-lg-7 vcenter padding-bottom-20">-->
+
+
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="easydance-team-main">
+                <div class="easydance-team-block">
+                  <div class="easydance-team-photo"><img src="img/equipo/robert.png" alt=""></div>
+                  <div class="easydance-team-text">
+                    <div class="easydance-team-name"><h4>Robert Virona</h4> - CEO</div>
+                    <div class="easydance-team-desc"><p>Con 20 años de experiencia en el gremio del baile, primero como bailador, luego como profesor y hoy día como director de academia, organizador de eventos y asesor en temas gerenciales, se ha apasionado en generar un producto que brinde soluciones a escala global a la mayor cantidad de personas que sea posible en todo el ecosistema danzario y bailes social,generando un alto contenido de valor ,haciendo la vida de las personas más sencilla, práctica y organizada.</p></div>
+                  </div>
                 </div>
-                <img src="img/equipo/robert.png" width="150" height="140"  alt="...">
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Juan</h4>
-                    <p>CTO</p>
-                    
+              </div>
+            </div>      
+            <div class="col-lg-6">
+              <div class="easydance-team-main">
+                  <div class="easydance-team-block">
+                    <div class="easydance-team-photo"><img src="img/equipo/oswaldo.jpg" alt=""></div>
+                    <div class="easydance-team-text">
+                      <div class="easydance-team-name"><h4>Oswaldo Rodriguez</h4> - Desarrollador Web </div>
+                      <div class="easydance-team-desc"><p>Es ingeniero en informática, es una pieza fundamental en el equipo Easy Dance, debido a sus capacidades de adaptación con las nuevas tecnologías, es reconocido por su alta velocidad en la ejecución de códigos, aporta al equipo energía, celeridad y adaptabilidad.</p></div>
+                    </div>
+                  </div>
                 </div>
-                <img src="img/equipo/juan.jpg" class="img-circle" width="150" height="140" alt="...">
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Alejandro</h4>
-                    <p>Desarrollador</p>
-                    
+
+            <div class="col-lg-6">
+              <div class="easydance-team-main">
+                <div class="easydance-team-block">
+                  <div class="easydance-team-photo"><img src="img/equipo/henry_fuenmayor.png" alt=""></div>
+                  <div class="easydance-team-text">
+                    <div class="easydance-team-name"><h4>Henry Fuenmayor</h4> - Relaciones Públicas</div>
+                    <div class="easydance-team-desc"><p>Henry se encuentra muy involucrado con el proyecto Easy dance, con más de 10 años de experiencia como director de academia de baile , ha brindado grandes aportes con sus conocimientos en la materia , su función principal es dar a conocer el producto a la mayor cantidad de directores de academias que sea posible , dándoles las herramientas necesarias para que puedan aprovechar al máximo el uso de la aplicación.</p></div>
+                  </div>
                 </div>
-                <img src="img/equipo/alejandro.jpg" class="img-circle" width="150" height="140" alt="...">
+              </div>
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Juan Carlos</h4>
-                    <p>Desarrollador</p>
-                    
+            <div class="col-lg-6">
+              <div class="easydance-team-main">    
+                  <div class="easydance-team-block">
+                    <div class="easydance-team-photo"><img src="img/equipo/alejandro.jpg" alt=""></div>
+                    <div class="easydance-team-text">
+                      <div class="easydance-team-name"><h4>Alejandro Garcia</h4> - Desarrollador Web - diseño de interfaces</div>
+                      <div class="easydance-team-desc"><p>Es ingeniero, con más de 10 años de experiencia en el área de programación web, es el CTO de Easy Dance, orienta al equipo a la toma de decisiones y el uso adecuado de las tecnologías, sus conocimientos enrutan a Easy Dance por el camino del éxito.</p></div>
+                    </div>
+                  </div>
                 </div>
-                <img src="img/equipo/juan_carlos.png" width="150" height="140" alt="...">
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Genesis</h4>
-                    <p>Relaciones públicas</p>
-                    
+
+            <div class="col-lg-6">
+              <div class="easydance-team-main">    
+                  <div class="easydance-team-block">
+                    <div class="easydance-team-photo"><img src="img/equipo/foto-david.jpg" alt=""></div>
+                    <div class="easydance-team-text">
+                      <div class="easydance-team-name"><h4>David Acurero</h4> - Desarrollador Web</div>
+                      <div class="easydance-team-desc"><p>Es programador con alta experiencia en el área web, es T.S.U. en informática. Se caracteriza por contar con un alto nivel de desarrollo, domina una alta gama de herramientas tecnológicas aportándole un alto nivel de contenido al crecimiento de la aplicación, se especializa en el diseño y la lógica del sistema.</p></div>
+                    </div>
+                  </div>
                 </div>
-                <img src="img/equipo/genesis.jpg" class="img-circle" width="150" height="140" alt="...">
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Heduin </h4>
-                    <p>Community Manager</p>
-                    
+
+
+          </div>
+
+    	    <!--
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Robert</h4>
+                        <p>CEO</p>                    
+                    </div>
+                    <img src="img/equipo/robert.png" width="150" height="140"  alt="...">
                 </div>
-                <img src="img/equipo/heduin.png" width="150" height="140" alt="...">
             </div>
-        </div>    
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Henry </h4>
-                    <p>Relaciones públicas</p>
-                    
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Juan</h4>
+                        <p>CTO</p>
+                        
+                    </div>
+                    <img src="img/equipo/juan.jpg" class="img-circle" width="150" height="140" alt="...">
                 </div>
-                <img src="img/equipo/henry_fuenmayor.png" class="img-circle" width="150" height="140" alt="...">
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Jalbert </h4>
-                    <p>Diseñador gráfico</p>
-                    
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Alejandro</h4>
+                        <p>Desarrollador</p>
+                        
+                    </div>
+                    <img src="img/equipo/alejandro.jpg" class="img-circle" width="150" height="140" alt="...">
                 </div>
-                <img src="img/equipo/jalbert_gutierrez.png" width="150" height="140" alt="...">
             </div>
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10 ">            
-            <div class="thumbnail img-center">
-                <div class="caption">
-                    <h4>Samuel Ospina</h4>
-                    <p>Desarrollador</p>
-                    
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Juan Carlos</h4>
+                        <p>Desarrollador</p>
+                        
+                    </div>
+                    <img src="img/equipo/juan_carlos.png" width="150" height="140" alt="...">
                 </div>
-                <img src="img/equipo/samuel-ospina.jpg" class="img-circle" width="150" height="140" alt="...">
             </div>
-        </div> 
-            <!--<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-					<p class="robert">Robert <br>CEO</p>
-					
-					<img src="img/equipo/robert.png" class="img-center img-rounded imagen" width="150" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>			 
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="juan">Juan <br>CTO</p>
-					<img src="img/equipo/juan.png" class="img-center img-rounded imagen" width="150" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="alejandro">Alejandro <br>Desarrollador</p>
-					<img src="img/equipo/robert.png" class="img-center img-rounded imagen" width="150" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="juan-c">Juan Carlos <br>Desarrollador</p>
-					<img src="img/equipo/juan_carlos.png" class="img-center img-rounded imagen" width="160" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="norka">Norka <br>Coordinadora</p>
-					<img src="img/equipo/norka_hernandez.png" class="img-center img-rounded imagen" width="155" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="heduin">Heduin <br>Community <br>Manager</p>
-					<img src="img/equipo/heduin.png" class="img-center img-rounded imagen" width="158" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			
-				
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="henry">Henry <br>Relaciones <br>públicas</p>
-					<img src="img/equipo/henry_fuenmayor.png" class="img-center img-rounded imagen" width="158" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="jalbert">Jalbert <br>Diseñador <br>gráfico</p>
-					<img src="img/equipo/jalbert_gutierrez.png" class="img-center img-rounded imagen" width="150" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>
-			<div class="col-md-4 padding-bottom-20">
-				<div class="img-nosotros margin-right-30 text-center" >	
-				    <p class="robinson">Robinson <br>Finanzas</p>
-					<img src="img/equipo/robinzon_marzol.png" class="img-center img-rounded imagen" width="150" height="140" >
-					<img src="img/equipo/circulo.png" class="img-center img-rounded nosotros-fondo" width="150" height="140" >
-				</div>
-			</div>-->
-        </div>   
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Genesis</h4>
+                        <p>Relaciones públicas</p>
+                        
+                    </div>
+                    <img src="img/equipo/genesis.jpg" class="img-circle" width="150" height="140" alt="...">
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Heduin </h4>
+                        <p>Community Manager</p>
+                        
+                    </div>
+                    <img src="img/equipo/heduin.png" width="150" height="140" alt="...">
+                </div>
+            </div>    
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Henry </h4>
+                        <p>Relaciones públicas</p>
+                        
+                    </div>
+                    <img src="img/equipo/henry_fuenmayor.png" class="img-circle" width="150" height="140" alt="...">
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Jalbert </h4>
+                        <p>Diseñador gráfico</p>
+                        
+                    </div>
+                    <img src="img/equipo/jalbert_gutierrez.png" width="150" height="140" alt="...">
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4 img-center padding-top-10 ">            
+                <div class="thumbnail img-center">
+                    <div class="caption">
+                        <h4>Samuel Ospina</h4>
+                        <p>Desarrollador</p>
+                        
+                    </div>
+                    <img src="img/equipo/samuel-ospina.jpg" class="img-circle" width="150" height="140" alt="...">
+                </div>
+            </div>
+            -->
+<!--        </div>   
         
-        <div id="ancho-41" class="col-md-5 text-center vcenter margin-top-20">  
+
+    </div>      --> 
+
+    <div class="row">
+        
+
+        <div class="col-lg-12 text-center vcenter margin-top-20">  
             <h3 class="text-uppercase">¿Cómo lo logramos?</h3>
             <p class="padding-bottom-20">
                 En Easy Dance obtenemos resultados en conjunto, Easy dance no surge con el esfuerzo de una sola persona,
-				detrás de esta aplicación existe un equipo de trabajo comprometido y de muy alto nivel en conocimientos 
-				y profesionalismo, nuestro equipo se entrega a diario para resolver las complejas situaciones y exigencias
-				de nuestros clientes, para cuando ellos necesitan de nuestro apoyo y asesoría. Estamos comprometidos  y 
-				con alta experiencia en las áreas, de liderazgo,  programación organizacional,  desarrollo técnico web,
-				marketing digital, atención al cliente, diseños gráficos, producción audio visual, ventas, 
-				entre otros, al momento de enfrentar grandes retos los asumimos con entrega y dedicación.
+                detrás de esta aplicación existe un equipo de trabajo comprometido y de muy alto nivel en conocimientos 
+                y profesionalismo, nuestro equipo se entrega a diario para resolver las complejas situaciones y exigencias
+                de nuestros clientes, para cuando ellos necesitan de nuestro apoyo y asesoría. Estamos comprometidos  y 
+                con alta experiencia en las áreas, de liderazgo,  programación organizacional,  desarrollo técnico web,
+                marketing digital, atención al cliente, diseños gráficos, producción audio visual, ventas, 
+                entre otros, al momento de enfrentar grandes retos los asumimos con entrega y dedicación.
             </p>
             
             <p>
                 El  equipo Easy Dance se caracteriza por  diferentes personalidades con gustos y hobbies distintos,
-				que diariamente se actualiza con lo nuevo del mercado para llevarles a nuestros clientes la tecnología
-				de punta y la solución  a sus conflictos.
+                que diariamente se actualiza con lo nuevo del mercado para llevarles a nuestros clientes la tecnología
+                de punta y la solución  a sus conflictos.
 
             </p>            
         </div>
-    </div>       
+
+
+
+    </div>
+
+
+
+
    </div>
 </section>
 <script type="text/javascript-lazy">

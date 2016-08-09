@@ -12,10 +12,12 @@
     <meta id="og_image" property="og:image" content="img/easydace-software.jpg" />
     <!--<link rel="author" href="humans.txt" />-->	
     <base href="/pagina_easydancelatino/" >
+    <!--<base href="/easy-web/" >-->
     <!--<link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">-->
     <!--<link href="css/fontawesome/font-awesome.min.css" rel="stylesheet">-->
     <!--<link href="css/angular-load/loading-bar.min.css" rel="stylesheet">-->
     <link href="css/main/todo.css" rel="stylesheet"> 
+    <link href="css/nuevo/new-style.css" rel="stylesheet"> 
     <!--<link href="css/main/main.min.css" rel="stylesheet">-->    
     <!--<link rel="stylesheet" href="css/bootstrap-sweetalert/sweet-alert.css">-->
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
