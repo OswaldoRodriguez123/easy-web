@@ -62,12 +62,12 @@
 
                         <div class="col-sm-12">
 
-                          <a href="http://app.easydancelatino.com/especiales/campañas/progreso/9"><img class="img-responsive" src="http://app.easydancelatino.com/assets/uploads/campana/campana-9.jpg"></a>
+                          <a href="http://app.easydancelatino.com/todos-con-robert"><img class="img-responsive" src="http://app.easydancelatino.com/assets/uploads/campana/campana-9.jpg"></a>
 
                           <br><br>
                           
                           <div class="text-center">
-                            <a href="http://app.easydancelatino.com/especiales/campañas/progreso/9" class="btn btn-violeta ">Ver Campaña</a>
+                            <a href="http://app.easydancelatino.com/todos-con-robert" class="btn btn-violeta ">Ver Campaña</a>
                           </div>
                         </div>
 
@@ -98,7 +98,7 @@
             <li><a href="#/nosotros" ng-class="getClass('/nosotros')" >Sobre Nosotros</a></li>
             <li><a href="#/embajadores" ng-class="getClass('/embajadores')" >Embajadores</a></li>
             <li><a href="#/noticias" ng-class="getClass('/noticias')" >Noticias</a></li>
-            <li><a href="http://app.easydancelatino.com/especiales/campañas/progreso/9">Campaña</a></li>
+            <li><a href="http://app.easydancelatino.com/todos-con-robert">Campaña</a></li>
             
           </ul>
 		  
