@@ -105,7 +105,7 @@
 		  <ul class="nav navbar-nav navbar-right menu-r">
 		    <li class="menu-r">
 				<form class="navbar-right padding-5" role="search">
-					<a href="#/ponte-en-accion/prueba-gratis" class="btn btn-violeta ">Prueba gratis</a>
+					<a href="http://app.easydancelatino.com/registro" class="btn btn-violeta ">Prueba gratis</a>
 				</form>
 			</li>
 			<li><a href="http://app.easydancelatino.com" target="_blank">&nbsp;&nbsp;Ingresar</a></li>			
