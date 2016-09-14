@@ -12,7 +12,7 @@
     <meta id="og_image" property="og:image" content="img/easydace-software.jpg" />
     <!--<link rel="author" href="humans.txt" />-->	
     <base href="/pagina_easydancelatino/" >
-    <!--<base href="/easy-web/" >-->
+    <!-- <base href="/easy-web/" > -->
     <!--<link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">-->
     <!--<link href="css/fontawesome/font-awesome.min.css" rel="stylesheet">-->
     <!--<link href="css/angular-load/loading-bar.min.css" rel="stylesheet">-->
@@ -49,6 +49,35 @@
     
 </head>
 <body>
+  <div class="modal fade" id="modalCampana" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content">
+                        <div class="modal-header bg-gris-oscuro p-t-10 p-b-10" style="border-bottom: none">
+                            <h4 class="modal-title c-negro"><i class="zmdi zmdi-edit m-r-5"></i> <button type="button" data-dismiss="modal" class="close c-gris f-25" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button></h4>
+                        </div>
+
+  
+                        <div class="modal-body">                           
+                        <div class="row p-t-20 p-b-0">
+
+                        <div class="col-sm-12">
+
+                          <a href="http://app.easydancelatino.com/especiales/campañas/progreso/9"><img class="img-responsive" src="http://app.easydancelatino.com/assets/uploads/campana/campana-9.jpg"></a>
+
+                          <br><br>
+                          
+                          <div class="text-center">
+                            <a href="http://app.easydancelatino.com/especiales/campañas/progreso/9" class="btn btn-violeta ">Ver Campaña</a>
+                          </div>
+                        </div>
+
+
+                    </div>
+                </div>
+              </div>
+          </div>
+      </div>
+
     <nav class="navbar navbar-inverse navbar-negro navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -69,6 +98,7 @@
             <li><a href="#/nosotros" ng-class="getClass('/nosotros')" >Sobre Nosotros</a></li>
             <li><a href="#/embajadores" ng-class="getClass('/embajadores')" >Embajadores</a></li>
             <li><a href="#/noticias" ng-class="getClass('/noticias')" >Noticias</a></li>
+            <li><a href="http://app.easydancelatino.com/especiales/campañas/progreso/9">Campaña</a></li>
             
           </ul>
 		  
@@ -225,6 +255,16 @@
     <script src="js/function/default.js"></script>-->
     <!--<script src="js/vendor/bootstrap-sweetalert/sweet-alert.js"></script>-->
     <script>
+
+    $(document).ready(function() {
+
+      setTimeout(function(){ 
+
+          $('#modalCampana').modal('show'); 
+
+        }, 3000);
+    });
+
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
