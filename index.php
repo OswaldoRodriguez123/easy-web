@@ -11,7 +11,7 @@
     <meta id="og_description" property="og:description" content="Easy dance, es la aplicación para academias de baile Online que realiza el trabajo organizativo, informativo y de estadísticas en tiempo real" />    
     <meta id="og_image" property="og:image" content="img/easydace-software.jpg" />
     <!--<link rel="author" href="humans.txt" />-->	
-    <base href="/pagina_easydancelatino/" >
+    <base href="http://easydancelatino.com/" >
     <!-- <base href="/easy-web/" > -->
     <!--<link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">-->
     <!--<link href="css/fontawesome/font-awesome.min.css" rel="stylesheet">-->
