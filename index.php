@@ -98,7 +98,6 @@
             <li><a href="#/nosotros" ng-class="getClass('/nosotros')" >Sobre Nosotros</a></li>
             <li><a href="#/embajadores" ng-class="getClass('/embajadores')" >Embajadores</a></li>
             <li><a href="#/noticias" ng-class="getClass('/noticias')" >Noticias</a></li>
-            <li><a href="http://app.easydancelatino.com/todos-con-robert">Campaña</a></li>
             
           </ul>
 		  
@@ -256,14 +255,14 @@
     <!--<script src="js/vendor/bootstrap-sweetalert/sweet-alert.js"></script>-->
     <script>
 
-    $(document).ready(function() {
+    // $(document).ready(function() {
 
-      setTimeout(function(){ 
+    //   setTimeout(function(){ 
 
-          $('#modalCampana').modal('show'); 
+    //       $('#modalCampana').modal('show'); 
 
-        }, 3000);
-    });
+    //     }, 3000);
+    // });
 
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
