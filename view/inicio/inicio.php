@@ -14,7 +14,7 @@
     <div class="container margin-top-40">
     <div class="row">
         <div class="col-md-12 text-center">        
-                <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-azul-claro btn-lg text-uppercase">Prueba Gratis</a>        
+                <a href="http://app.easydancelatino.com" class="btn btn-azul-claro btn-lg text-uppercase">Prueba Gratis</a>        
         </div>
     </div>
     </div>
@@ -83,7 +83,7 @@
         <p>Bríndale a tus alumnos, instructores y equipo de trabajo, las herramientas de última generación para mejorar tus servicios.</p> 
     </div>
     <div class="col-md-12 text-center padding-top-40">        
-            <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-violeta btn-lg text-uppercase">Comenzar tu Prueba Gratis</a>        
+            <a href="http://app.easydancelatino.com" class="btn btn-violeta btn-lg text-uppercase">Comenzar tu Prueba Gratis</a>        
     </div>
   </div>
   </div> 
@@ -121,7 +121,7 @@
     --><div class="col-md-6 vcenter text-center padding-top-bottom-20">
         <h3>¿CÓMO EMPIEZO?</h3> 
         <p>Es muy fácil, sólo llena el formulario y uno de nuestros asesores te contactará, para que exploremos juntos la opción que tú necesitas para el crecimiento de tu academia de Baile.</p>
-        <a class="btn btn-violeta btn-lg text-uppercase" href="#/ponte-en-accion/prueba-gratis">Empezar Ahora</a>
+        <a class="btn btn-violeta btn-lg text-uppercase" href="http://app.easydancelatino.com">Empezar Ahora</a>
     </div>
   </div>
   </div>  

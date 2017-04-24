@@ -14,7 +14,7 @@
         <div class="row">
 		    <br>
             <div class="col-md-12 text-center">        
-                <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-violeta btn-lg text-uppercase">Prueba Gratis</a>        
+                <a href="http://app.easydancelatino.com" class="btn btn-violeta btn-lg text-uppercase">Prueba Gratis</a>        
             </div>
         </div>
         </div>
@@ -259,7 +259,7 @@
                <h3 class="text-center">PRUEBA EASY DANCE GRATIS POR 30 DÍAS</h3>
            </div> 
            <div class="col-md-4 text-center">
-               <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-default btn-violeta btn-lg text-uppercase">PRUEBA GRATIS  >>></a>
+               <a href="http://app.easydancelatino.com" class="btn btn-default btn-violeta btn-lg text-uppercase">PRUEBA GRATIS  >>></a>
            </div> 
        </div>
    </div>

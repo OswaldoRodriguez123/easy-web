@@ -64,7 +64,7 @@
 			   <p class="text-center">Disfruta gratis  30 días y descubre una manera sencilla de personalizar y gestionar tu academia de baile</p>
            </div> 
            <div class="col-md-12 text-center">
-               <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-default btn-violeta btn-lg text-uppercase">PRUEBA GRATIS</a>
+               <a href="http://app.easydancelatino.com" class="btn btn-default btn-violeta btn-lg text-uppercase">PRUEBA GRATIS</a>
            </div> 
        </div>
    </div>

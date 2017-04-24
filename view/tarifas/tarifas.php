@@ -67,7 +67,7 @@
             </div>
         </div>
         <div class="col-md-12 text-center padding-top-20 padding-bottom-30">        
-                <a href="#/ponte-en-accion/prueba-gratis" class="btn btn-violeta btn-lg text-uppercase">INICIA 30 DÍAS GRATIS</a>        
+                <a href="http://app.easydancelatino.com" class="btn btn-violeta btn-lg text-uppercase">INICIA 30 DÍAS GRATIS</a>        
         </div>
         
     </div>
