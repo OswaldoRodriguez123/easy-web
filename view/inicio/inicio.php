@@ -25,7 +25,7 @@
 <div class="container">
 <div class="row">
     <div class="col-md-6 vcenter padding-top-bottom-20">
-        <img class="img-responsive w100" src="img/home-2.jpg" > <!--src="img/700x450.png"--> 
+        <img class="img-responsive w100" src="img/home-2.jpeg" > <!--src="img/700x450.png"--> 
     </div><!--
     --><div class="col-md-6 vcenter text-center">
         <h3>¡UNA FORMA BRILLANTE   DE GERENCIAR TU ACADEMIA!</h3> 

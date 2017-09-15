@@ -122,7 +122,7 @@
             </p>
         </div>
         <div class="col-md-12 padding-top-20">
-            <img class="img-responsive" src="img/caracteristica-2.jpg"> 
+            <img class="img-responsive" src="img/caracteristica-2.jpeg"> 
         </div>
     </div>
    </div>
@@ -152,7 +152,7 @@
             <a class="btn btn-verde btn-lg text-uppercase" href="#/caracteristicas/personalizar">Más sobre personalizar >></a> 
         </div> 
         <div class="col-md-7 vcenter padding-top-10">
-            <img class="img-responsive w100" src="img/caracteristica-3.jpg">
+            <img class="img-responsive w100" src="img/caracteristica-3.jpeg">
         </div>       
     </div>       
    </div>
@@ -161,7 +161,7 @@
    <div class="container">
     <div class="row"> 
         <div class="col-md-7 vcenter padding-top-10">
-            <img class="img-responsive w100" src="img/caracteristica-4.jpg">
+            <img class="img-responsive w100" src="img/caracteristica-4.jpeg">
         </div>   
         <div id="ancho-41" class="col-md-5 text-center vcenter padding-top-10">   
             <h3>CONTROL DE VISITANTES</h3>
@@ -218,7 +218,7 @@
             <a class="btn btn-rojo btn-lg text-uppercase" href="#/caracteristicas/ventajas" >Más sobre ventajas >></a> 
         </div> 
         <div class="col-md-7 vcenter padding-top-10">
-            <img class="img-responsive w100" src="img/caracteristica-5.jpg">
+            <img class="img-responsive w100" src="img/caracteristica-5.jpeg">
         </div>       
     </div>       
    </div>
@@ -250,7 +250,7 @@
    </div>
 </section>
 <section class="padding-top-30">
-    <img  class="img-responsive" alt="1440x500" data-src="" src="img/caracteristica-6.jpg">
+    <img  class="img-responsive" alt="1440x500" data-src="" src="img/caracteristica-6.jpeg">
 </section>
 <section class="padding-top-40 padding-bottom-40 fondo-gray">
    <div class="container">

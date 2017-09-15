@@ -63,7 +63,7 @@
                 </div>
               </div>
             </div>      
-            <div class="col-lg-6">
+            <div class="col-lg-12">
               <div class="easydance-team-main">
                   <div class="easydance-team-block">
                     <div class="easydance-team-photo"><img src="img/equipo/oswaldo.jpg" alt=""></div>
@@ -75,7 +75,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-6">
+            <!-- <div class="col-lg-6">
               <div class="easydance-team-main">
                 <div class="easydance-team-block">
                   <div class="easydance-team-photo"><img src="img/equipo/henry_fuenmayor.png" alt=""></div>
@@ -108,7 +108,7 @@
                     </div>
                   </div>
                 </div>
-            </div>
+            </div> -->
 
 
           </div>
