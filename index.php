@@ -1,17 +1,21 @@
 <!DOCTYPE html>
-<html lang="es" ng-app='MyApp' ng-controller="easyController" >
-<head>
+<html lang="es" ng-app='MyApp' ng-controller="easyController" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head itemscope itemtype="http://schema.org/WPHeader">
+    <title>Easy Dance!</title>
+    <base href="http://easydancelatino.com/" >    
     <meta charset="utf-8" >
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Easy Dance!</title>
+    <link rel="canonical" href="http://easydancelatino.com/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@easydancelatino" />
+    <meta name="twitter:creator" content="@easydancelatino" />
     <meta name="description" content="Easy dance, es la aplicación para academias de baile Online que realiza el trabajo organizativo, informativo y de estadísticas en tiempo real." />
     <link rel="shortcut icon" type="image/x-icon" href="img/easy-dance.ico"/>
     <meta id="og_title" property="og:title" content="SOFTWARE EXCLUSIVO PARA ACADEMIAS DE BAILE | Easy Dance!" />
     <meta id="og_description" property="og:description" content="Easy dance, es la aplicación para academias de baile Online que realiza el trabajo organizativo, informativo y de estadísticas en tiempo real" />    
     <meta id="og_image" property="og:image" content="img/easydace-software.jpg" />
     <!--<link rel="author" href="humans.txt" />-->	
-    <base href="http://easydancelatino.com/" >
     <!-- <base href="/easy-web/" > -->
     <!--<link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">-->
     <!--<link href="css/fontawesome/font-awesome.min.css" rel="stylesheet">-->
@@ -48,37 +52,9 @@
     <script async src="js/function/function.js"></script>-->
     
 </head>
-<body>
-  <div class="modal fade" id="modalCampana" tabindex="-1" role="dialog" aria-hidden="true">
-                <div class="modal-dialog modal-lg">
-                    <div class="modal-content">
-                        <div class="modal-header bg-gris-oscuro p-t-10 p-b-10" style="border-bottom: none">
-                            <h4 class="modal-title c-negro"><i class="zmdi zmdi-edit m-r-5"></i> <button type="button" data-dismiss="modal" class="close c-gris f-25" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button></h4>
-                        </div>
+<body itemscope itemtype="http://schema.org/WebPage">
 
-  
-                        <div class="modal-body">                           
-                        <div class="row p-t-20 p-b-0">
-
-                        <div class="col-sm-12">
-
-                          <a href="http://app.easydancelatino.com/todos-con-robert"><img class="img-responsive" src="http://app.easydancelatino.com/assets/uploads/campana/campana-9.jpg"></a>
-
-                          <br><br>
-                          
-                          <div class="text-center">
-                            <a href="http://app.easydancelatino.com/todos-con-robert" class="btn btn-violeta ">Ver Campaña</a>
-                          </div>
-                        </div>
-
-
-                    </div>
-                </div>
-              </div>
-          </div>
-      </div>
-
-    <nav class="navbar navbar-inverse navbar-negro navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-negro navbar-fixed-top" itemscope itemtype="http://schema.org/SiteNavigationElement">
       <div class="container">
         <div class="navbar-header">
           <button style="visibility: {{visibleterminos}};" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -125,7 +101,9 @@
             </div>
         </div>
     </div>
-    <div ng-view></div>
+
+    <div ng-view itemscope itemprop="mainContentOfPage"></div>
+
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-sm-3 col-md-3">
@@ -137,7 +115,7 @@
         <!--</div>                
     </div>
     </div>-->
-    <footer class="fondo-grey-darken-4 padding-top-bottom-50">
+    <footer class="fondo-grey-darken-4 padding-top-bottom-50" itemscope itemtype="http://schema.org/WPFooter">
         <div class="container">
           <div class="row">
                <h1 class="text-hide">Easy Dance</h1>	
@@ -183,10 +161,10 @@
                   <h3 class="n-vin" >Comparte</h3>
                   <ul class="globalfooter-links padding-top-bottom-10 n-vin" style="visibility: {{activenoticias}};">
                       <li><a href="https://twitter.com/intent/tweet?url=http://www.easydancelatino.com&text=UNA FORMA BRILLANTE DE GERENCIAR%20por%20@easydancelatino" target="_blank" class="button _small _share _twitter js-share hvr-glow" data-share="twitter"><span class="icon fa fa-twitter _before"></span><span class="text-c">Tweet</span></a></li>
-		      <li><a href="http://www.linkedin.com/shareArticle?url=http://www.easydancelatino.com" target="_blank" class="button _small _share _linkedin js-share hvr-glow" data-share="linkedin"><span class="icon fa fa-linkedin  _before"></span>Comparte</a></li>
-		      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.easydancelatino.com" target="_blank" class="button _small _share _facebook js-share hvr-glow" data-share="facebook"><span class="icon fa fa-facebook _before"></span>Comparte</a></li>
-		      <li><a href="https://plus.google.com/share?url=http://www.easydancelatino.com" target="_blank" class="button _small _share _googleplus js-share hvr-glow" data-share="gplus"><span class="icon fa fa-google-plus _before"></span>Comparte</a></li>
-				  </ul>
+            		      <li><a href="http://www.linkedin.com/shareArticle?url=http://www.easydancelatino.com" target="_blank" class="button _small _share _linkedin js-share hvr-glow" data-share="linkedin"><span class="icon fa fa-linkedin  _before"></span>Comparte</a></li>
+            		      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://www.easydancelatino.com" target="_blank" class="button _small _share _facebook js-share hvr-glow" data-share="facebook"><span class="icon fa fa-facebook _before"></span>Comparte</a></li>
+            		      <li><a href="https://plus.google.com/share?url=http://www.easydancelatino.com" target="_blank" class="button _small _share _googleplus js-share hvr-glow" data-share="gplus"><span class="icon fa fa-google-plus _before"></span>Comparte</a></li>
+            				</ul>
                   
                   <!--<p class="padding-top-10 n-vin">Subscríbete a nuestro blog y mantente al día </p>
                   <form class="n-vin">
